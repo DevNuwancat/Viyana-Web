@@ -1,0 +1,637 @@
+
+
+body 
+{
+  background-color: #e3e1e1;
+}
+
+
+/* Fixed Top */
+
+.banner
+{
+  background-color: #f5cc84;
+  margin-bottom: -1em;
+
+}
+
+ul
+{
+  list-style: none;
+}
+
+
+
+#items_Call
+{
+  margin-top: 20px;
+}
+
+#items_Tel
+{
+  font-size: 25px;
+  font-weight:bold;
+}
+
+#items_delievery
+{
+  margin-top: 20px;
+}
+
+#item_cash
+{
+  margin-top: 5px;
+  margin-left: 30px;
+}
+
+#tickbox
+{
+  margin-bottom:5px;
+  margin-left: 5px;
+
+}
+
+/* Nav-bae */
+.nav-col
+{
+  background-color: #f7bb52;
+}
+.socialicons
+{
+  position: absolute;
+  right:20px;
+  font-size: 30px;
+ 
+
+}
+
+/* Social Icons */
+.social-icons
+{
+  color: #2b2b29;
+
+}
+
+/* Banner */
+
+.Banner-Left
+{
+
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+.Banner-head_1
+{
+  font-size: 60px;
+  font-weight: 600;
+}
+
+
+.Banner-paragraph
+{
+  padding-left: 0.3rem;
+  font-size: 22px;
+}
+
+.Banner-paragraph2   /* Secon Section High Quality & Luxary "Head Title" */
+{
+  margin-top: 0px;
+  padding-left: 0rem;
+  font-size: 22px;
+}
+
+
+.img-pic
+{
+  max-width:45%;
+  max-height: 450%;
+}
+
+.shape-cls
+{
+  position:absolute;
+  z-index: -1;
+
+}
+
+.shape_box
+{
+  position: absolute;
+  z-index: -1;
+  height: 400px;
+  background-color: #137544;
+
+  
+}
+
+/* Section2 image box */
+.headsection_img2
+{
+  margin-right:0px;
+}
+
+#shape_box
+{ 
+  right: 300px;
+  width: 100px;
+  clip-path: polygon(50% 0%, 100% 0%, 50% 100%, 0% 100%);
+}
+
+#shape1
+{
+  right: 0px;
+  width: 480px;
+  height: 0px;
+  z-index: -1;
+  margin-top: 0rem;
+  margin-bottom: 0rem;
+  border-left: 120px solid transparent;
+  border-right: 0px solid transparent;
+  border-bottom: 420px solid #e6e3e1;
+  background-color: white;
+
+}
+
+#price-tag
+{
+
+
+  font-size: 30px;
+
+  padding-top: 8px;
+  margin-left: 200px;
+  margin-right:200px;
+
+
+  font-weight: 600;
+  color: #ed4c61;
+
+}
+/* Flexible Canophy */
+.headsection /* Header Text section with "Viyana" Logo (Left Side) */
+{
+  margin-top: 40px; 
+}
+
+.headsection_img /* Header Canophy img (Right Side) */
+{
+  margin-top: 40px;
+}
+
+/* Why you need a Canophy */
+
+.head1
+{
+  margin-top: -10rem;
+  margin-bottom: 8rem;
+}
+
+/* Why you need a Canophy */
+
+.box
+{
+
+  color: #040c2b;
+  padding: 10px 10px;
+  border-radius: 12px;
+  margin-left: 50px;
+  margin-right: 50px;
+
+
+
+  background: -webkit-linear-gradient(#55e9ff, #1ea3ff);
+  /*background: -webkit-linear-gradient(#f2f2f2, #f2f2f2);*/
+
+}
+
+/* 4 images section of  Canophy */
+
+#photo_round
+{
+  border-radius: 12px;
+  border-style: solid;
+  border-color: #e6e1e1;
+  border-width: 5px;
+  box-shadow:19px 23px 26px rgba(0, 0, 0, 0.24);
+
+}
+
+.icon-fontawrsome
+{
+  margin-top: 1.2rem;
+  font-size: 1.6rem;
+  color: #f2830c;
+}
+
+
+.section1
+{
+margin-left: 2rem;
+}
+
+.section1-para
+{
+  color:#696868 ;
+
+}
+
+.section1_para
+{
+  color:#616060;
+}
+
+/* Product */
+
+.head2
+{
+  margin-top: 4rem;
+  margin-bottom: 5rem;
+}
+
+.how_assemble /* How to assemble section */
+{
+  margin-top: 6rem;
+  margin-bottom: 6rem;
+}
+
+
+
+
+/* Image */
+#shape2
+{
+  left: 0px;
+  width: 480px;
+  height: 0px;
+  z-index: -1;
+  margin-top: 0rem;
+  margin-bottom: 2rem;
+  border-left: 0px solid transparent;
+  border-right: 120px solid transparent;
+  border-bottom: 420px solid #e6e3e1;
+  background-color: white;
+
+}
+
+.image-product
+{
+  padding-top:2rem;
+  padding-left: 2rem;
+}
+
+/* Discount bar on Cover */
+.text_discount
+{
+    background: #f7bb52;
+    border-radius: 25px;
+    padding-top: 1rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-bottom: 0.1rem;
+
+    color: #040c2b;
+    font-size: 16px;
+
+}
+/* List */
+.icon-fontawrsome2
+{
+  color: #f2830c;
+}
+
+.product-text-section
+{
+  padding-top: 1rem;
+  padding-left: 8rem;
+}
+
+.product-text-section_1
+{
+  padding-left: 8rem;
+  padding-top: 1rem;
+}
+
+.product-text-section_2
+{
+  padding-left: 8rem;
+}
+
+#icon1
+{
+  color: #b32a07;
+}
+
+#icon2
+{
+  color: #4d3a2f;
+}
+
+#icon3
+{
+  color: #c2bfbe;
+}
+
+.icon-border
+{
+  position: relative;
+  border-width: 2px;
+  border-style:solid;
+  border-radius: 5px;
+  height: 30px;
+  width: 30px;
+  padding-left: 4px;
+  color: #f2830c;
+
+
+}
+
+.icon-border_1
+{
+  position: relative;
+  border-width: 2px;
+  border-style:solid;
+  border-radius: 5px;
+  height: 30px;
+  width: 30px;
+  padding-left: 6px;
+  color: #f2830c;
+}
+
+/* We provide  sedtion */
+
+.text-box-custom
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-width: 2px;
+  border-style:solid;
+  border-color: black;
+  padding: 10px;
+  margin-top: 20px;
+
+
+  width: 600px;
+}
+
+.text-box-custom-para
+{
+  font-size: 20px;
+}
+
+.fa-whatsapp
+{
+  font-size: 30px;
+  color: #137544;
+}
+
+.whatsappbutton
+{
+  margin-bottom: 20px;
+}
+
+.sect
+{
+  background: #cfffd4;
+  margin-top: 3.2rem;
+  padding-top:1rem;
+  padding-bottom: 1rem;
+}
+
+/* icon-fontawrsome-col- colors */
+
+.how_to_buy p
+{
+  font-size: 20px;
+}
+
+.how_orange
+{
+  color: #f2830c;
+}
+
+.stepbox
+{
+  padding: 0px 30px;
+}
+
+.step_icon
+{
+  font-size: 50px;
+  margin-bottom: 2rem;
+  color: #c2c0be;
+}
+
+/* Footer */
+
+.footer-dev
+{
+  background: #e1e6e2;
+  margin-top: 4rem;
+  padding-top: 2rem;
+  padding-bottom: 1rem;
+}
+
+.social_footer
+{
+
+  font-size: 20px;
+}
+
+.footer-tel
+{
+  padding-top: 20px;
+}
+
+/* ................... First Page .................. */
+
+.partners
+{
+  margin-top: 2rem;
+}
+
+.partners-logo
+{
+  margin-top: 3rem;
+}
+
+/* User Reviews Animation */
+
+
+.animated-text
+{
+  position: absolute;
+  margin-top: 6rem;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  padding: 0px 10px;
+  height: 120px;
+  overflow: hidden;
+  
+}
+
+.animated-lines
+{
+  text-align: center;
+}
+
+.animated-lines:first-child
+{
+  animation: anim 25s infinite;
+}
+
+
+@keyframes anim 
+{
+  
+  18%{
+    margin-top: 0%;
+  }
+  20%{
+    margin-top: -130px;
+  }
+  38%{
+    margin-top: -130px
+  }
+  40%{
+    margin-top: -270px;
+  }
+  58%{
+    margin-top: -270px;
+  }
+  60%{
+    margin-top: -130px;
+  }
+  78%{
+    margin-top: -130px;
+  }
+  80%{
+    margin-top: 0px;
+  }
+  
+  
+}
+
+/* User Reviews Animation */
+#animated-Over-hr
+{
+  margin-top: 14rem;
+}
+
+
+.gallery-Images
+{
+  background-color: red;
+  margin-top: 12rem;
+}
+
+
+
+/* Index2.html Gallery Section */
+/* Gallery */
+/* Gallery Title */
+.gallery-text h5/* Gallery Heading Text */
+{
+  font-size: 3rem;
+  margin-top: 4rem;
+  margin-bottom: 0.8rem;
+}
+
+.gallery-text p /* Gallery Paragraph Text */
+{
+  font-size: 1.2rem;
+  color: #696868;
+}
+
+.gallery-text /* add Gallery text div to margin bottom */
+{
+  margin-bottom: 3.5rem;
+}
+/* Gallery Title */
+
+/* Gallery images section */
+
+/*...........................*/
+/* Video Title */
+
+.video-tilte
+{
+  margin-top: 4rem;
+  margin-bottom: 2rem;
+}
+
+.video-tilte p
+{
+  font-size: 1.5rem;
+  color: #696868;
+}
+
+/*....Redesign...*/
+
+/* Green "Online Order Available" curve corner */
+.online
+{
+  background: #50a809;
+  border-radius: 25px;
+  font-size: 14px;
+  padding: 10px 20px 10px 20px;
+  color: white;
+
+}
+
+.scroll-down
+{
+  background: #f3a010;
+  border-radius: 25px;
+  font-size: 15px;
+  padding: 10px 20px 10px 20px;
+  color: white;
+  width: 204px;
+}
+
+.nav-link
+{
+  
+}
+
+
+.nav-link:hover /* Navbar buttons hover */
+{
+  color: #f9a003;
+}
+
+.index2-button
+{
+  text-decoration: none;
+  color: white;
+}
+
+/** Viyana Service -- About us **/
+/*? List - Viyana Service */
+.m-list li {
+
+  margin-top: 10px;
+  font-size: large;
+ 
+}
+
+/*? Icons */
+.m-list i {
+
+  font-size: 16px;
+  color: #f9a003;
+  margin-right: 6px;
+  margin-top: 32px;
+} 
+
+/*? Paragraph */
+.m-list p {
+  color: #6f6f6f;
+}
+
+/*? aboutus image */
+#aboutus-img{
+  margin-top: 116px;
+}
+
