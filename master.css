@@ -110,14 +110,14 @@ ul
 
 .shape-cls
 {
-  position:absolute;
-  z-index: -1;
+  position:relative;
+
 
 }
 
 .shape_box
 {
-  position: absolute;
+  
   z-index: -1;
   height: 400px;
   background-color: #137544;
@@ -360,19 +360,14 @@ margin-left: 2rem;
 
 /* We provide  sedtion */
 
-.text-box-custom
+.text-box-custom       
 {
-  display: block;
+ 
   margin-left: auto;
   margin-right: auto;
-  border-width: 2px;
-  border-style:solid;
-  border-color: black;
-  padding: 10px;
+
+  padding: auto;
   margin-top: 20px;
-
-
-  width: 600px;
 }
 
 .text-box-custom-para
@@ -391,7 +386,7 @@ margin-left: 2rem;
   margin-bottom: 20px;
 }
 
-.sect
+.sect                       /*? Green Backgreound - click here for whatsapp - main bar */
 {
   background: #cfffd4;
   margin-top: 3.2rem;
@@ -584,7 +579,7 @@ margin-left: 2rem;
   font-size: 15px;
   padding: 10px 20px 10px 20px;
   color: white;
-  width: 204px;
+  width: 343px;
 }
 
 .nav-link
@@ -632,10 +627,27 @@ margin-left: 2rem;
   margin-top: 116px;
 }
 
+
+.head1{                                      /*? "Why this canopy for everyone" <h1> */
+   
+  position: relative;
+  margin-top: 6rem;
+}
+
+.nav-icon-back {                                /*? Navigation-bar back to home page(index.html) icon */
+  font-size: 16px;
+  color:  #ee9a26;
+  
+}
+
 /* TODO - Responsive */
 
 @media (max-width: 767.98px) { 
   .canopy-showcase-video{                         /*? Canopy showcase Video */
+    width: 360px;
+    height: 220px;
+  }
+  .video-how-assemble{                             /*? How to Assemble Video */
     width: 360px;
     height: 220px;
   }
